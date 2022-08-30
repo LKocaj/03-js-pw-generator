@@ -4,6 +4,8 @@
 <br><br>
 <a href="https://lkocaj.github.io/03-js-pw-generator/">DEPLOYED</a>
 
+![Screen Shot 2022-08-30 at 3 23 32 PM](https://user-images.githubusercontent.com/99697175/187528552-3d95fee5-9cd2-4f29-9fc3-f35a5d352b54.png)
+
 # Your Task
 
 This week’s Challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. This week’s coursework will teach you all the skills you need to succeed in this assignment.
